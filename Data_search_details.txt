@@ -1,0 +1,57 @@
+https://www.scopus.com/results/results.uri?cc=10&sort=cp-f&src=s&nlo=&nlr=&nls=&sid=7366e12a2f51a9dcc2a9e5d18b4fa38e&sot=a&sdt=cl&cluster=scosubtype%2c%22ar%22%2ct%2bscopubyr%2c%222020%22%2ct%2c%222019%22%2ct%2c%222018%22%2ct%2c%222017%22%2ct%2c%222016%22%2ct%2c%222015%22%2ct%2c%222014%22%2ct%2c%222013%22%2ct%2c%222012%22%2ct%2c%222011%22%2ct%2c%222010%22%2ct&sl=56&s=TITLE-ABS-KEY%28%22poly+lactic+acid%22+OR+PLA+OR+PLLA+OR+PDLA%29&ss=cp-f&ps=r-f&editSaveSearch=&origin=resultslist&zone=resultslist
+
+TITLE-ABS-KEY ( "poly lactic acid"  OR  pla  OR  plla  OR  pdla )  AND  ( LIMIT-TO ( DOCTYPE ,  "ar" ) )  AND  ( LIMIT-TO ( PUBYEAR ,  2020 )  OR  LIMIT-TO ( PUBYEAR ,  2019 )  OR  LIMIT-TO ( PUBYEAR ,  2018 )  OR  LIMIT-TO ( PUBYEAR ,  2017 )  OR  LIMIT-TO ( PUBYEAR ,  2016 )  OR  LIMIT-TO ( PUBYEAR ,  2015 )  OR  LIMIT-TO ( PUBYEAR ,  2014 )  OR  LIMIT-TO ( PUBYEAR ,  2013 )  OR  LIMIT-TO ( PUBYEAR ,  2012 )  OR  LIMIT-TO ( PUBYEAR ,  2011 )  OR  LIMIT-TO ( PUBYEAR ,  2010 ) ) 
+
+
+
+Year; Documents
+2020;3424
+2019;3116
+2018;2839
+2017;2384
+2016;2420
+2015;2220
+2014;2225
+2013;2016
+2012;1768
+2011;1577
+
+
+
+
+Country/Territory;Documents 
+China;8599
+United States;3397
+Japan;1460
+Italy;1172
+United Kingdom;1104
+Spain;1074
+South Korea;1063
+France;1024
+India;1004
+Germany;922
+Brazil;831
+Canada;769
+Poland;632
+Iran;621
+Taiwan;576
+
+
+
+Subject area;Documents 
+Materials Science;13225
+Chemistry;8858
+Engineering;6060
+Chemical Engineering;5347
+Biochemistry, Genetics and Molecular Biology;4253
+Medicine;4179
+Physics and Astronomy;3611
+Pharmacology, Toxicology and Pharmaceutics;1666
+Environmental Science;1328
+Agricultural and Biological Sciences;1130
+Energy;740
+Immunology and Microbiology;595
+Computer Science;497
+Multidisciplinary;388
+Nursing;333
+
